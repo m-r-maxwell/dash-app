@@ -1,0 +1,7 @@
+Taskfile.yml
+venv/
+index.py
+pages/
+data/
+callbacks.py
+__pycache__/
